@@ -1,7 +1,7 @@
 # list of three students named Jon, Kim and Lee
-students = ["Jon", "Kim", "Lee"]
+students = ["Bruce", "Jon", "Kim", "Lee"]
 # change Jon to John
-students[0] = 'John'
+students[1] = 'John'
 # add more students after the list is created
 students.append("Sara")
 students.append("Miko")
